@@ -1,3 +1,3 @@
-# gulp start html5 template
+# vue js template
 
 v 0.0.1
